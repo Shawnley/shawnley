@@ -8,3 +8,5 @@
 ## 🔎 About Me
 
 I'm an experienced technology leader with a strong background in software development, architecture, and infrastructure. Skilled at building and leading engineering teams, delivering complex projects, and driving technical strategy from concept to production. Equally comfortable writing code, scaling systems, and aligning technology with business goals. 
+
+[![trophy]([https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark](https://github-profile-trophy.vercel.app/?username=shawnley&rank=-C,-B,-?&theme=onedark))](https://github.com/ryo-ma/github-profile-trophy)
